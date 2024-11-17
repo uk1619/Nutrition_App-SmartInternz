@@ -57,6 +57,8 @@ Streamlit
 
 ## Authors
 
-- [@Aditya Wadkar](https://www.github.com/AdityaWadkar)
+- [@Uttam Kumar](https://github.com/uk1619)
+- [@Prayag Anil Thakur](https://github.com/PrAyAg9)
+- [Rakesh Kumar Singh](https://github.com/Rakesh689558)
 
 
