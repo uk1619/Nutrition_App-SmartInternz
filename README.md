@@ -59,6 +59,6 @@ Streamlit
 
 - [@Uttam Kumar](https://github.com/uk1619)
 - [@Prayag Anil Thakur](https://github.com/PrAyAg9)
-- [Rakesh Kumar Singh](https://github.com/Rakesh689558)
+- [@Rakesh Kumar Singh](https://github.com/Rakesh689558)
 
 
